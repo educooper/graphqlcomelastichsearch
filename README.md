@@ -178,4 +178,4 @@ $data = graphqlWithCache($query, ['id' => 123]);
 Este foi apenas um artigo breve, direto ao ponto, sobre como orquestrar as consultas do graphQL com o caching do ElastichSearch
 
 
-Mais detalhes, valide a versão em (PDF)[https://github.com/educooper/graphqlcomelastichsearch/blob/main/ebook.pdf]
+Mais detalhes, valide a versão em [PDF](https://github.com/educooper/graphqlcomelastichsearch/blob/main/ebook.pdf)
